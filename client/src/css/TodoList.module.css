@@ -1,0 +1,17 @@
+.list {
+  padding: 10px;
+  background-color: lightsalmon;
+}
+.todoUL {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.todoUL li {
+  margin: 5px 0;
+  padding: 5px;
+  background-color: lightskyblue;
+  display: flex;
+}
+.todoUL li span:nth-child(1) {
+}
